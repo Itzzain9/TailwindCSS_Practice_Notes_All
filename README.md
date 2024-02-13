@@ -3,3 +3,9 @@ In this Repo You can Learn All TailwaindCSS From Scratch To Advance, In This Rep
 1-Intro To Tailwindcss<br>
 2-Two Types to Install tailwind<br>
 3-Why to use Tailwindcss<br>
+4-Tailwind Font Family
+5-Font Size
+6-Tailwind Font weight
+7-Font Style
+8-Text Alignment
+9- Letter Spacing
