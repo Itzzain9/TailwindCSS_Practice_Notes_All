@@ -25,3 +25,6 @@ In this Repo You can Learn All TailwaindCSS From Scratch To Advance, In This Rep
 3-Table
 4-Space Between
 5-Border Width
+1-Cursor
+2-Float
+3-Flex
