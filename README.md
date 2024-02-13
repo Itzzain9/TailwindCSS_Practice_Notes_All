@@ -3,28 +3,29 @@ In this Repo You can Learn All TailwaindCSS From Scratch To Advance, In This Rep
 1-Intro To Tailwindcss<br>
 2-Two Types to Install tailwind<br>
 3-Why to use Tailwindcss<br>
-4-Tailwind Font Family
-5-Font Size
-6-Tailwind Font weight
-7-Font Style
-8-Text Alignment
-9- Letter Spacing
-10-Text Color
-11-Text Opacity
-13-List Style type
-14-List style image
-15-Background image
-16-Background Color
-17-Background Position
-18-Width
-19-Height
-20-Padding
-21-Margin
-22-Border Radius
-23-Justify Content
-24-Table
-24-Space Between
-26-Border Width
-27-Cursor
-28-Float
-29-Flex
+4-Tailwind Font Family<br>
+5-Font Size<br>
+6-Tailwind Font weight<br>
+7-Font Style<br>
+8-Text Alignment<br>
+9- Letter Spacing<br>
+10-Text Color<br>
+11-Text Opacity<br>
+13-List Style type<br>
+14-List style image<br>
+15-Background image<br>
+16-Background Color<br>
+17-Background Position<br>
+18-Width<br>
+19-Height<br>
+20-Padding<br>
+21-Margin<br>
+22-Border Radius<br>
+23-Justify Content<br>
+24-Table<br>
+24-Space Between<br>
+26-Border Width<br>
+27-Cursor<br>
+28-Float<br>
+29-Flex<br>
+<br>
