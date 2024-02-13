@@ -9,3 +9,9 @@ In this Repo You can Learn All TailwaindCSS From Scratch To Advance, In This Rep
 7-Font Style
 8-Text Alignment
 9- Letter Spacing
+1-Text Color
+2-Text Opacity
+3-List Style type
+4-List style image
+5-Background image
+6-Background Color
