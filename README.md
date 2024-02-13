@@ -9,22 +9,22 @@ In this Repo You can Learn All TailwaindCSS From Scratch To Advance, In This Rep
 7-Font Style
 8-Text Alignment
 9- Letter Spacing
-1-Text Color
-2-Text Opacity
-3-List Style type
-4-List style image
-5-Background image
-6-Background Color
-1-Background Position
-2-Width
-3-Height
-4-Padding
-5-Margin
-1-Border Radius
-2-Justify Content
-3-Table
-4-Space Between
-5-Border Width
-1-Cursor
-2-Float
-3-Flex
+10-Text Color
+11-Text Opacity
+13-List Style type
+14-List style image
+15-Background image
+16-Background Color
+17-Background Position
+18-Width
+19-Height
+20-Padding
+21-Margin
+22-Border Radius
+23-Justify Content
+24-Table
+24-Space Between
+26-Border Width
+27-Cursor
+28-Float
+29-Flex
