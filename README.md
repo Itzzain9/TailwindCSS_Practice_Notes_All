@@ -15,3 +15,8 @@ In this Repo You can Learn All TailwaindCSS From Scratch To Advance, In This Rep
 4-List style image
 5-Background image
 6-Background Color
+1-Background Position
+2-Width
+3-Height
+4-Padding
+5-Margin
