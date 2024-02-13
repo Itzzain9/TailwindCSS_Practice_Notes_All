@@ -20,3 +20,8 @@ In this Repo You can Learn All TailwaindCSS From Scratch To Advance, In This Rep
 3-Height
 4-Padding
 5-Margin
+1-Border Radius
+2-Justify Content
+3-Table
+4-Space Between
+5-Border Width
